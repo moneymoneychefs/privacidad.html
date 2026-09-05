@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Subasta de Chefs</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 20px auto; padding: 0 15px; line-height: 1.6; color: #333; }
+        h1 { color: #5b21b6; }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad — Subasta de Chefs</h1>
+
+    <h2>1. Datos que recopilamos</h2>
+    <p>Para el registro e inicio de sesión únicamente recopilamos los siguientes datos mínimos:</p>
+    <ul>
+        <li>Nombre de usuario.</li>
+        <li>Contraseña (almacenada de forma encriptada).</li>
+    </ul>
+    <p>No solicitamos ni almacenamos nombres reales, direcciones de correo electrónico, números de teléfono ni datos de pago.</p>
+
+    <h2>2. Finalidad del tratamiento</h2>
+    <p>La única finalidad del tratamiento de estos datos es permitir el acceso a tu cuenta de usuario, identificar tu perfil dentro del juego y guardar tu progreso.</p>
+
+    <h2>3. Protección y cesión de datos</h2>
+    <p>Tus datos no serán vendidos, alquilados ni compartidos con terceros bajo ninguna circunstancia. Se aplican medidas de seguridad básicas para proteger tu información almacenada.</p>
+
+    <h2>4. Eliminación de datos</h2>
+    <p>Puedes solicitar la eliminación completa de tu cuenta y de tus datos asociados en cualquier momento contactando con el desarrollador a través de la cuenta oficial de TikTok del juego.</p>
+</body>
+</html>
